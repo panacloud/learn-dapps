@@ -18,7 +18,7 @@ In the details of the transaction you will see the message.
 
 Code for sharing:
 
-https://ethfiddle.com/LBrEQAHJLx
+https://ethfiddle.com/I61t0TCZbi
 
 Note about strings vs bytes:
 
