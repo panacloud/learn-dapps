@@ -8,5 +8,15 @@ http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
 
 We will be using the following resource to learn Solidity:
 
+http://solidity.readthedocs.io/en/latest/
+
 http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
+
+https://blockgeeks.com/guides/solidity/
+
+https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
+
+https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
+
+
 
