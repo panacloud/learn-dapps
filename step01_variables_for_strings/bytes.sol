@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 contract MyStrings {
     event Log(string message);
     function doSomething() public {
-        bytes32 name = "Zia";//dont use var
+        bytes32 name = "Zia";
         name = "Mark";
         Log(bytes32ToString(name));
 
