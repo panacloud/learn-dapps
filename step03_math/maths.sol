@@ -5,6 +5,8 @@ contract DoingMaths {
 
     function doSomething() public {
         int num = ((((2 + 3) - 1) * 3) / 3) % 3;
+        ++num;
+        --num;
         Log(num);
         
     }
